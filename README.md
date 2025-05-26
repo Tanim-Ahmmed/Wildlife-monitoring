@@ -71,7 +71,7 @@ CREATE TABLE enrollments (
 );
 ```
 
-## ✅ 4. What is the difference between the VARCHAR and CHAR data types?
+## 4. What is the difference between the VARCHAR and CHAR data types?
 
  পার্থক্য টেবিল:
 
