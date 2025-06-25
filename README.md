@@ -52,8 +52,6 @@ CREATE TABLE students (
   name TEXT
 );
 ```
-
-
 ### Foreign Key:
 **Foreign Key** এমন একটি কলাম যা অন্য একটি টেবিলের Primary Key কে রেফার করে এবং টেবিলগুলোর মধ্যে সম্পর্ক তৈরি করে।
 
